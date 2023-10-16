@@ -1,0 +1,140 @@
+{
+    "List": {
+      "Gutter": {
+        "Horizontal": {
+          "$type": "number",
+          "$value": "{Gutter.S.2}"
+        },
+        "Vertical": {
+          "$type": "number",
+          "$value": "{Gutter.XS.2}"
+        }
+      },
+      "Padding": {
+        "Horizontal": {
+          "$type": "number",
+          "$value": "{Padding.S.3}"
+        },
+        "Vertical": {
+          "$type": "number",
+          "$value": "{Padding.S.3}"
+        }
+      }
+    },
+    "Tag": {
+      "Color": {
+        "BG": {
+          "Selected": {
+            "$type": "color",
+            "$value": "{BG.Neutral.Faded.Default}"
+          },
+          "Passed": {
+            "$type": "color",
+            "$value": "{BG.Success.Faded.Default}"
+          },
+          "False": {
+            "$type": "color",
+            "$value": "{BG.Warning.Faded.Default}"
+          },
+          "Promotion": {
+            "$type": "color",
+            "$value": "{BG.Promotion.Faded.Default}"
+          }
+        },
+        "Text": {
+          "Selected": {
+            "Default": {
+              "$type": "color",
+              "$value": "{Text.Neutral.Base}"
+            },
+            "Secondary": {
+              "$type": "color",
+              "$value": "{Text.Neutral.Secondary}"
+            }
+          },
+          "Passed": {
+            "Default": {
+              "$type": "color",
+              "$value": "{Text.Success.Strong}"
+            },
+            "Secondary": {
+              "$type": "color",
+              "$value": "{Text.Success.Secondary}"
+            }
+          },
+          "False": {
+            "Default": {
+              "$type": "color",
+              "$value": "{Text.Danger.Strong}"
+            },
+            "Secondary": {
+              "$type": "color",
+              "$value": "{Text.Danger.Secondary}"
+            }
+          },
+          "Promotion": {
+            "Default": {
+              "$type": "color",
+              "$value": "{Text.Promotion.Strong}"
+            },
+            "Secondary": {
+              "$type": "color",
+              "$value": "{Text.Promotion.Secondary}"
+            }
+          }
+        }
+      },
+      "Size": {
+        "S": {
+          "Height": {
+            "$type": "number",
+            "$value": "{Size.20}"
+          },
+          "Padding Horizontal": {
+            "$type": "number",
+            "$value": 0
+          },
+          "Padding Vertical": {
+            "$type": "number",
+            "$value": 0
+          }
+        },
+        "M": {
+          "$type": "number",
+          "$value": "{Size.24}",
+          "Height": {
+            "$type": "number",
+            "$value": "{Size.20}"
+          },
+          "Padding Horizontal": {
+            "$type": "number",
+            "$value": 0
+          },
+          "Padding Vertical": {
+            "$type": "number",
+            "$value": 0
+          }
+        },
+        "L": {
+          "$type": "number",
+          "$value": "{Size.32}",
+          "Height": {
+            "$type": "number",
+            "$value": "{Size.32}"
+          },
+          "Padding Horizontal": {
+            "$type": "number",
+            "$value": 0
+          },
+          "Padding Vertical": {
+            "$type": "number",
+            "$value": "{Padding.XS.3}"
+          }
+        },
+        "Gutter": {
+          "$type": "number",
+          "$value": "{Gutter.XS.2}"
+        }
+      }
+    }
+  }

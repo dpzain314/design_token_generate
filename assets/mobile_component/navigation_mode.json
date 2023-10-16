@@ -1,0 +1,32 @@
+{
+    "Header": {
+      "Padding": {
+        "Horizontal": {
+          "$type": "number",
+          "$value": "{Padding.S.3}"
+        },
+        "Bottom": {
+          "$type": "number",
+          "$value": "{Padding.S.1}"
+        },
+        "Top": {
+          "$type": "number",
+          "$value": "{Padding.iOS Safe Area.Top}"
+        }
+      },
+      "Radius": {
+        "$type": "number",
+        "$value": "{Radius.M}"
+      },
+      "Gutter": {
+        "$type": "number",
+        "$value": "{Gutter.S.1}"
+      }
+    },
+    "Tabbar": {
+      "Padding Top": {
+        "$type": "number",
+        "$value": "{Padding.S.3}"
+      }
+    }
+  }

@@ -1,0 +1,204 @@
+{
+  "Padding": {
+    "XS": {
+      "1": {
+        "$type": "number",
+        "$value": "{Spacing.XS.1}"
+      },
+      "2": {
+        "$type": "number",
+        "$value": "{Spacing.XS.2}"
+      },
+      "3": {
+        "$type": "number",
+        "$value": "{Spacing.XS.3}"
+      },
+      "1H": {
+        "$type": "number",
+        "$value": "{Spacing.XS.1H}"
+      }
+    },
+    "S": {
+      "1": {
+        "$type": "number",
+        "$value": "{Spacing.S.1}"
+      },
+      "2": {
+        "$type": "number",
+        "$value": "{Spacing.S.2}"
+      },
+      "3": {
+        "$type": "number",
+        "$value": "{Spacing.S.3}"
+      },
+      "4": {
+        "$type": "number",
+        "$value": "{Spacing.S.4}"
+      },
+      "2H": {
+        "$type": "number",
+        "$value": "{Spacing.S.2H}"
+      },
+      "3H": {
+        "$type": "number",
+        "$value": "{Spacing.S.3H}"
+      }
+    },
+    "M": {
+      "1": {
+        "$type": "number",
+        "$value": "{Spacing.M.1}"
+      },
+      "2": {
+        "$type": "number",
+        "$value": "{Spacing.M.2}"
+      },
+      "3": {
+        "$type": "number",
+        "$value": "{Spacing.M.3}"
+      },
+      "4": {
+        "$type": "number",
+        "$value": "{Spacing.M.4}"
+      }
+    },
+    "iOS Safe Area": {
+      "Bottom": {
+        "$type": "number",
+        "$value": 34
+      },
+      "Top": {
+        "$type": "number",
+        "$value": 44
+      }
+    }
+  },
+  "Margin": {
+    "XS": {
+      "2": {
+        "$type": "number",
+        "$value": "{Spacing.XS.2}"
+      }
+    },
+    "S": {
+      "1": {
+        "$type": "number",
+        "$value": "{Spacing.S.1}"
+      },
+      "3": {
+        "$type": "number",
+        "$value": "{Spacing.S.3}"
+      },
+      "4": {
+        "$type": "number",
+        "$value": "{Spacing.S.4}"
+      }
+    },
+    "M": {
+      "1": {
+        "$type": "number",
+        "$value": "{Spacing.M.1}"
+      }
+    }
+  },
+  "Gutter": {
+    "XS": {
+      "1": {
+        "$type": "number",
+        "$value": "{Spacing.XS.1}"
+      },
+      "2": {
+        "$type": "number",
+        "$value": "{Spacing.XS.2}"
+      }
+    },
+    "S": {
+      "1": {
+        "$type": "number",
+        "$value": "{Spacing.S.1}"
+      },
+      "2": {
+        "$type": "number",
+        "$value": "{Spacing.S.2}"
+      },
+      "3": {
+        "$type": "number",
+        "$value": "{Spacing.S.3}"
+      },
+      "4": {
+        "$type": "number",
+        "$value": "{Spacing.S.4}"
+      },
+      "2H": {
+        "$type": "number",
+        "$value": "{Spacing.S.2H}"
+      }
+    },
+    "M": {
+      "1": {
+        "$type": "number",
+        "$value": "{Spacing.M.1}"
+      },
+      "2": {
+        "$type": "number",
+        "$value": "{Spacing.M.2}"
+      }
+    }
+  },
+  "Radius": {
+    "Pill": {
+      "$type": "number",
+      "$value": "{Spacing.Percent.Pill}"
+    },
+    "XS": {
+      "$type": "number",
+      "$value": "{Spacing.XS.2}"
+    },
+    "S": {
+      "$type": "number",
+      "$value": "{Spacing.S.1}"
+    },
+    "M": {
+      "$type": "number",
+      "$value": "{Spacing.S.2}"
+    },
+    "L": {
+      "$type": "number",
+      "$value": "{Spacing.S.3}"
+    },
+    "XL": {
+      "$type": "number",
+      "$value": "{Spacing.S.4}"
+    }
+  },
+  "Min Height": {
+    "S": {
+      "$type": "number",
+      "$value": 40
+    },
+    "M": {
+      "$type": "number",
+      "$value": 48
+    }
+  },
+  "Min-Width": {
+    "S": {
+      "$type": "number",
+      "$value": 16
+    }
+  },
+  "Radius Container": {
+    "S": {
+      "$type": "number",
+      "$value": "{Radius.S.2}"
+    },
+    "M": {
+      "$type": "number",
+      "$value": "{Radius.S.3}"
+    },
+    "L": {
+      "$type": "number",
+      "$value": "{Radius.S.4}"
+    }
+  }
+}

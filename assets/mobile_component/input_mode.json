@@ -1,0 +1,320 @@
+{
+    "Input": {
+      "Atom": {
+        "Number Unit": {
+          "Padding": {
+            "Top": {
+              "$type": "number",
+              "$value": "{Padding.S.2}"
+            },
+            "Bottom": {
+              "$type": "number",
+              "$value": "{Padding.XS.2}"
+            }
+          }
+        },
+        "Label": {
+          "Gutter": {
+            "$type": "number",
+            "$value": "{Gutter.XS.1}"
+          },
+          "Required": {
+            "$type": "color",
+            "$value": "{Text.Danger.Default}"
+          }
+        },
+        "OTP": {
+          "Padding": {
+            "Horizontal": {
+              "$type": "number",
+              "$value": "{Padding.S.2H}"
+            },
+            "Vertical": {
+              "$type": "number",
+              "$value": "{Padding.S.1}"
+            }
+          },
+          "Width": {
+            "$type": "number",
+            "$value": 40
+          },
+          "Height": {
+            "$type": "number",
+            "$value": 48
+          },
+          "Gutter": {
+            "$type": "number",
+            "$value": "{Gutter.S.2H}"
+          }
+        },
+        "Domain": {
+          "Size": {
+            "$type": "number",
+            "$value": "{Size.48}"
+          },
+          "Padding": {
+            "Vertical": {
+              "$type": "number",
+              "$value": "{Padding.XS.2}"
+            },
+            "Horizontal": {
+              "Inside": {
+                "$type": "number",
+                "$value": "{Padding.XS.2}"
+              },
+              "Outside": {
+                "$type": "number",
+                "$value": "{Padding.S.2}"
+              }
+            }
+          },
+          "Radius": {
+            "$type": "number",
+            "$value": "{Radius.XS}"
+          },
+          "Color": {
+            "BG": {
+              "Enabled": {
+                "$type": "color",
+                "$value": "{BG.Primary.Faded.Default}"
+              },
+              "Read Only": {
+                "$type": "color",
+                "$value": "{BG.Neutral.Faded.Hover}"
+              }
+            },
+            "Text": {
+              "Enabled": {
+                "$type": "color",
+                "$value": "{Text.Primary.Default}"
+              },
+              "Disabled": {
+                "$type": "color",
+                "$value": "{Text.Neutral.Tertiary}"
+              }
+            }
+          }
+        },
+        "Number Button": {
+          "Color": {
+            "BG": {
+              "Default": {
+                "$type": "color",
+                "$value": "{Input.Color.BG.Default}"
+              },
+              "Pressed": {
+                "$type": "color",
+                "$value": "{BG.Neutral.Faded.Pressed}"
+              }
+            }
+          }
+        }
+      },
+      "Color": {
+        "Border": {
+          "Activated": {
+            "$type": "color",
+            "$value": "{Border.Primary.Default}"
+          },
+          "Error": {
+            "$type": "color",
+            "$value": "{Border.Form.Error}"
+          },
+          "Required": {
+            "$type": "color",
+            "$value": "{Border.Form.Required}"
+          },
+          "Default": {
+            "$type": "color",
+            "$value": "{Border.Form.Default}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Border.Form.Disabled}"
+          },
+          "Success": {
+            "$type": "color",
+            "$value": "{Border.Form.Success}"
+          }
+        },
+        "Text": {
+          "Placeholder": {
+            "$type": "color",
+            "$value": "{Input Inline.Color.Text.Placeholder}"
+          },
+          "Filled": {
+            "$type": "color",
+            "$value": "{Text.Neutral.Base}"
+          },
+          "Read Only": {
+            "$type": "color",
+            "$value": "{Text.Neutral.Read Only}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Text.Neutral.Disabled}"
+          }
+        },
+        "Icon": {
+          "Prefix": {
+            "$type": "color",
+            "$value": "{Icon.Neutral.Default}"
+          },
+          "Action": {
+            "$type": "color",
+            "$value": "{Icon.Neutral.Label}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Icon.Neutral.Disabled}"
+          }
+        },
+        "BG": {
+          "Default": {
+            "$type": "color",
+            "$value": "{BG.Form.Default}"
+          },
+          "Activated": {
+            "$type": "color",
+            "$value": "{BG.Form.Activated}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{BG.Form.Disabled}"
+          },
+          "Read Only": {
+            "$type": "color",
+            "$value": "{BG.Form.Read Only}"
+          },
+          "Box": {
+            "$type": "color",
+            "$value": "{BG.Layer.Level 0}"
+          }
+        }
+      },
+      "Padding": {
+        "Vertical": {
+          "L": {
+            "$type": "number",
+            "$value": "{Padding.S.1}"
+          },
+          "M": {
+            "$type": "number",
+            "$value": "{Padding.S.1}"
+          },
+          "S": {
+            "$type": "number",
+            "$value": "{Padding.S.1}"
+          }
+        },
+        "Horizontal": {
+          "$type": "number",
+          "$value": "{Padding.S.3}"
+        },
+        "With Suffix": {
+          "$type": "number",
+          "$value": "{Padding.XS.2}"
+        }
+      },
+      "Radius": {
+        "$type": "number",
+        "$value": "{Radius.S.1}"
+      },
+      "Min Height": {
+        "Text field": {
+          "$type": "number",
+          "$value": 56
+        }
+      },
+      "Gutter": {
+        "Horizontal": {
+          "$type": "number",
+          "$value": "{Gutter.S.2}"
+        },
+        "Vertical": {
+          "$type": "number",
+          "$value": "{Gutter.XS.2}"
+        },
+        "Value": {
+          "$type": "number",
+          "$value": "{Gutter.XS.2}"
+        },
+        "Value Inline": {
+          "$type": "number",
+          "$value": "{Gutter.S.2}"
+        }
+      },
+      "Size": {
+        "S": {
+          "$type": "number",
+          "$value": "{Size.32}"
+        },
+        "M": {
+          "$type": "number",
+          "$value": "{Size.40}"
+        },
+        "L": {
+          "$type": "number",
+          "$value": "{Size.48}"
+        },
+        "XL": {
+          "$type": "number",
+          "$value": "{Size.56}"
+        }
+      }
+    },
+    "Picker": {
+      "Atom": {
+        "Week": {
+          "Color": {
+            "$type": "color",
+            "$value": "{Button.Color.BG.Primary.Faded.Default}"
+          },
+          "Radius": {
+            "$type": "number",
+            "$value": "{Radius.Pill}"
+          },
+          "Size": {
+            "$type": "number",
+            "$value": "{Size.32}"
+          }
+        },
+        "Date": {
+          "Size": {
+            "$type": "number",
+            "$value": "{Size.40}"
+          }
+        },
+        "Week day": {
+          "Color": {
+            "$type": "color",
+            "$value": "{Text.Neutral.Tertiary}"
+          },
+          "Padding Vertical": {
+            "$type": "number",
+            "$value": "{Padding.S.1}"
+          }
+        }
+      },
+      "Color": {
+        "BG": {
+          "Current": {
+            "$type": "color",
+            "$value": "{Config.Primary.100}"
+          },
+          "Range": {
+            "$type": "color",
+            "$value": "{Config.Primary.25}"
+          },
+          "Chosen": {
+            "$type": "color",
+            "$value": "{BG.Primary.Solid.Default}"
+          },
+          "Current Month": {
+            "$type": "color",
+            "$value": "{Config.Primary.25}"
+          }
+        }
+      }
+    }
+  }

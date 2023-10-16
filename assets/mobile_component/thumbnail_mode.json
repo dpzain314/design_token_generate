@@ -1,0 +1,38 @@
+{
+    "Image": {
+      "Size": {
+        "S": {
+          "$type": "number",
+          "$value": "{Size.24}"
+        },
+        "M": {
+          "$type": "number",
+          "$value": "{Size.40}"
+        },
+        "L": {
+          "$type": "number",
+          "$value": "{Size.68}"
+        }
+      }
+    },
+    "Avatar": {
+      "Size": {
+        "XS": {
+          "$type": "number",
+          "$value": "{Size.20}"
+        },
+        "S": {
+          "$type": "number",
+          "$value": "{Size.24}"
+        },
+        "M": {
+          "$type": "number",
+          "$value": "{Size.40}"
+        },
+        "L": {
+          "$type": "number",
+          "$value": "{Size.68}"
+        }
+      }
+    }
+  }

@@ -1,0 +1,6 @@
+{
+  "Minimum Tap Area": {
+    "$type": "number",
+    "$value": 32
+  }
+}

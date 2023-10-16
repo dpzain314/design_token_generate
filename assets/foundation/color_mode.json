@@ -1,0 +1,1828 @@
+{
+    "Config": {
+      "Primary": {
+        "25": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.25}"
+        },
+        "50": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.50}"
+        },
+        "75": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.75}"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.100}"
+        },
+        "150": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.150}"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.200}"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.300}"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.400}"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.500}"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.600}"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.700}"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.800}"
+        },
+        "825": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.825}"
+        },
+        "850": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.850}"
+        },
+        "875": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.875}"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.900}"
+        }
+      },
+      "Neutral": {
+        "25": {
+          "$type": "color",
+          "$value": "{Color.Palette.Gray.25}"
+        },
+        "50": {
+          "$type": "color",
+          "$value": "{Color.Palette.Gray.50}"
+        },
+        "75": {
+          "$type": "color",
+          "$value": "{Color.Palette.Gray.75}"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "{Color.Palette.Gray.100}"
+        },
+        "150": {
+          "$type": "color",
+          "$value": "{Color.Palette.Gray.150}"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "{Color.Palette.Gray.200}"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "{Color.Palette.Gray.300}"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "{Color.Palette.Gray.400}"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "{Color.Palette.Gray.500}"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "{Color.Palette.Gray.600}"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "{Color.Palette.Gray.700}"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "{Color.Palette.Gray.800}"
+        },
+        "825": {
+          "$type": "color",
+          "$value": "{Color.Palette.Gray.825}"
+        },
+        "850": {
+          "$type": "color",
+          "$value": "{Color.Palette.Gray.850}"
+        },
+        "875": {
+          "$type": "color",
+          "$value": "{Color.Palette.Gray.875}"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "{Color.Palette.Gray.900}"
+        },
+        "White": {
+          "$type": "color",
+          "$value": "{Color.Palette.Gray.0}"
+        },
+        "Black": {
+          "$type": "color",
+          "$value": "{Color.Palette.Gray.1000}"
+        }
+      },
+      "Success": {
+        "25": {
+          "$type": "color",
+          "$value": "{Color.Palette.Green.25}"
+        },
+        "50": {
+          "$type": "color",
+          "$value": "{Color.Palette.Green.50}"
+        },
+        "75": {
+          "$type": "color",
+          "$value": "{Color.Palette.Green.75}"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "{Color.Palette.Green.100}"
+        },
+        "150": {
+          "$type": "color",
+          "$value": "{Color.Palette.Green.150}"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "{Color.Palette.Green.200}"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "{Color.Palette.Green.300}"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "{Color.Palette.Green.400}"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "{Color.Palette.Green.500}"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "{Color.Palette.Green.600}"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "{Color.Palette.Green.700}"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "{Color.Palette.Green.800}"
+        },
+        "825": {
+          "$type": "color",
+          "$value": "{Color.Palette.Green.825}"
+        },
+        "850": {
+          "$type": "color",
+          "$value": "{Color.Palette.Green.850}"
+        },
+        "875": {
+          "$type": "color",
+          "$value": "{Color.Palette.Green.875}"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "{Color.Palette.Green.900}"
+        }
+      },
+      "Info": {
+        "25": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.25}"
+        },
+        "50": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.50}"
+        },
+        "75": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.75}"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.100}"
+        },
+        "150": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.150}"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.200}"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.300}"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.400}"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.500}"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.600}"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.700}"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.800}"
+        },
+        "825": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.825}"
+        },
+        "850": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.850}"
+        },
+        "875": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.875}"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "{Color.Palette.Blue.900}"
+        }
+      },
+      "Warning": {
+        "25": {
+          "$type": "color",
+          "$value": "{Color.Palette.Orange.25}"
+        },
+        "50": {
+          "$type": "color",
+          "$value": "{Color.Palette.Orange.50}"
+        },
+        "75": {
+          "$type": "color",
+          "$value": "{Color.Palette.Orange.75}"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "{Color.Palette.Orange.100}"
+        },
+        "150": {
+          "$type": "color",
+          "$value": "{Color.Palette.Orange.150}"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "{Color.Palette.Orange.200}"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "{Color.Palette.Orange.300}"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "{Color.Palette.Orange.400}"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "{Color.Palette.Orange.500}"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "{Color.Palette.Orange.600}"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "{Color.Palette.Orange.700}"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "{Color.Palette.Orange.800}"
+        },
+        "825": {
+          "$type": "color",
+          "$value": "{Color.Palette.Orange.825}"
+        },
+        "850": {
+          "$type": "color",
+          "$value": "{Color.Palette.Orange.850}"
+        },
+        "875": {
+          "$type": "color",
+          "$value": "{Color.Palette.Orange.875}"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "{Color.Palette.Orange.900}"
+        }
+      },
+      "Danger": {
+        "25": {
+          "$type": "color",
+          "$value": "{Color.Palette.Red.25}"
+        },
+        "50": {
+          "$type": "color",
+          "$value": "{Color.Palette.Red.50}"
+        },
+        "75": {
+          "$type": "color",
+          "$value": "{Color.Palette.Red.75}"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "{Color.Palette.Red.100}"
+        },
+        "150": {
+          "$type": "color",
+          "$value": "{Color.Palette.Red.150}"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "{Color.Palette.Red.200}"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "{Color.Palette.Red.300}"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "{Color.Palette.Red.400}"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "{Color.Palette.Red.500}"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "{Color.Palette.Red.600}"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "{Color.Palette.Red.700}"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "{Color.Palette.Red.800}"
+        },
+        "825": {
+          "$type": "color",
+          "$value": "{Color.Palette.Red.825}"
+        },
+        "850": {
+          "$type": "color",
+          "$value": "{Color.Palette.Red.850}"
+        },
+        "875": {
+          "$type": "color",
+          "$value": "{Color.Palette.Red.875}"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "{Color.Palette.Red.900}"
+        }
+      },
+      "Promotion": {
+        "25": {
+          "$type": "color",
+          "$value": "{Color.Palette.Pink.25}"
+        },
+        "50": {
+          "$type": "color",
+          "$value": "{Color.Palette.Pink.50}"
+        },
+        "75": {
+          "$type": "color",
+          "$value": "{Color.Palette.Pink.75}"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "{Color.Palette.Pink.100}"
+        },
+        "150": {
+          "$type": "color",
+          "$value": "{Color.Palette.Pink.150}"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "{Color.Palette.Pink.200}"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "{Color.Palette.Pink.300}"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "{Color.Palette.Pink.400}"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "{Color.Palette.Pink.500}"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "{Color.Palette.Pink.600}"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "{Color.Palette.Pink.700}"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "{Color.Palette.Pink.800}"
+        },
+        "825": {
+          "$type": "color",
+          "$value": "{Color.Palette.Pink.825}"
+        },
+        "850": {
+          "$type": "color",
+          "$value": "{Color.Palette.Pink.850}"
+        },
+        "875": {
+          "$type": "color",
+          "$value": "{Color.Palette.Pink.875}"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "{Color.Palette.Pink.900}"
+        }
+      }
+    },
+    "BG": {
+      "Status": {
+        "Complete": {
+          "Default": {
+            "$type": "color",
+            "$value": "{BG.Success.Solid.Default}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{BG.Success.Solid.Disabled}"
+          }
+        },
+        "Process": {
+          "Default": {
+            "$type": "color",
+            "$value": "{BG.Info.Solid.Default}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{BG.Info.Solid.Disabled}"
+          }
+        },
+        "Pending": {
+          "Default": {
+            "$type": "color",
+            "$value": "{BG.Warning.Solid.Default}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{BG.Warning.Solid.Disabled}"
+          }
+        },
+        "Alert": {
+          "Default": {
+            "$type": "color",
+            "$value": "{BG.Danger.Solid.Default}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{BG.Danger.Solid.Disabled}"
+          }
+        },
+        "InActive": {
+          "Default": {
+            "$type": "color",
+            "$value": "{BG.Neutral.Solid.Default}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{BG.Neutral.Solid.Disabled}"
+          }
+        }
+      },
+      "Layer": {
+        "Level 0": {
+          "$type": "color",
+          "$value": "{Config.Neutral.White}"
+        },
+        "Level 1": {
+          "$type": "color",
+          "$value": "{Config.Neutral.25}"
+        },
+        "Level 2": {
+          "$type": "color",
+          "$value": "{Config.Neutral.50}"
+        },
+        "Level 3": {
+          "$type": "color",
+          "$value": "{Config.Neutral.75}"
+        }
+      },
+      "Form": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Config.Neutral.25}"
+        },
+        "Activated": {
+          "$type": "color",
+          "$value": "{Config.Neutral.White}"
+        },
+        "Disabled": {
+          "$type": "color",
+          "$value": "{Config.Neutral.50}"
+        },
+        "Read Only": {
+          "$type": "color",
+          "$value": "{Config.Neutral.75}"
+        }
+      },
+      "Primary": {
+        "Solid": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Primary.500}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Primary.600}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Primary.700}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Primary.200}"
+          }
+        },
+        "Faded": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Primary.50}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Primary.100}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Primary.150}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{BG.Primary.Faded.Default}"
+          }
+        },
+        "Tertiary": {
+          "Default": {
+            "$type": "color",
+            "$value": "{BG.Transperent}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Primary.50}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Primary.100}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{BG.Primary.Tertiary.Default}"
+          }
+        },
+        "Strong": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Primary.600}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Primary.700}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Primary.800}"
+          },
+          "Disaabled": {
+            "$type": "color",
+            "$value": "{Config.Primary.400}"
+          }
+        }
+      },
+      "Success": {
+        "Strong": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Success.600}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Success.700}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Success.800}"
+          },
+          "Color": {
+            "$type": "color",
+            "$value": "{Config.Success.400}"
+          }
+        },
+        "Solid": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Success.500}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Success.600}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Success.700}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Success.200}"
+          }
+        },
+        "Faded": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Success.50}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Success.100}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Success.150}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{BG.Success.Faded.Default}"
+          }
+        },
+        "Tertiary": {
+          "Default": {
+            "$type": "color",
+            "$value": "{BG.Transperent}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Success.50}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Success.100}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{BG.Success.Tertiary.Default}"
+          }
+        }
+      },
+      "Info": {
+        "Solid": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Info.500}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Info.600}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Info.700}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Info.200}"
+          }
+        },
+        "Faded": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Info.50}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Info.100}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Info.150}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{BG.Info.Faded.Default}"
+          }
+        },
+        "Tertiary": {
+          "Default": {
+            "$type": "color",
+            "$value": "{BG.Transperent}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Info.50}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Info.100}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{BG.Info.Faded.Default}"
+          }
+        },
+        "Strong": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Info.600}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Info.700}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Info.800}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Info.400}"
+          }
+        }
+      },
+      "Warning": {
+        "Solid": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Warning.500}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Warning.600}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Warning.700}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Warning.200}"
+          }
+        },
+        "Faded": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Warning.50}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Warning.100}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Warning.150}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{BG.Warning.Faded.Default}"
+          }
+        },
+        "Tertiary": {
+          "Default": {
+            "$type": "color",
+            "$value": "{BG.Transperent}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Warning.50}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Warning.100}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{BG.Warning.Tertiary.Default}"
+          }
+        },
+        "Strong": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Warning.600}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Warning.700}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Warning.800}"
+          },
+          "Color": {
+            "$type": "color",
+            "$value": "{Config.Warning.400}"
+          }
+        }
+      },
+      "Danger": {
+        "Solid": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Danger.500}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Danger.600}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Danger.700}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Danger.200}"
+          }
+        },
+        "Faded": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Danger.50}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Danger.100}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Danger.150}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{BG.Danger.Faded.Default}"
+          }
+        },
+        "Tertiary": {
+          "Default": {
+            "$type": "color",
+            "$value": "{BG.Transperent}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Danger.50}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Danger.100}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{BG.Danger.Tertiary.Default}"
+          }
+        },
+        "Strong": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Danger.600}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Danger.700}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Danger.800}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Danger.400}"
+          }
+        }
+      },
+      "Promotion": {
+        "Solid": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Promotion.500}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Promotion.600}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Promotion.700}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Promotion.200}"
+          }
+        },
+        "Faded": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Promotion.50}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Promotion.100}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Promotion.150}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{BG.Promotion.Faded.Default}"
+          }
+        },
+        "Tertiary": {
+          "Default": {
+            "$type": "color",
+            "$value": "{BG.Transperent}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Promotion.50}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Promotion.100}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{BG.Promotion.Tertiary.Default}"
+          }
+        },
+        "Strong": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Promotion.600}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Promotion.700}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Promotion.800}"
+          },
+          "Color": {
+            "$type": "color",
+            "$value": "{Config.Promotion.400}"
+          }
+        }
+      },
+      "Neutral": {
+        "Solid": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Neutral.500}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Neutral.600}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Neutral.700}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Neutral.200}"
+          }
+        },
+        "Faded": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Neutral.50}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Neutral.100}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Neutral.150}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{BG.Neutral.Faded.Default}"
+          }
+        },
+        "Tertiary": {
+          "Default": {
+            "$type": "color",
+            "$value": "{BG.Transperent}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Neutral.50}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Neutral.100}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{BG.Neutral.Tertiary.Default}"
+          }
+        },
+        "Strong": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Neutral.600}"
+          },
+          "Hover": {
+            "$type": "color",
+            "$value": "{Config.Neutral.700}"
+          },
+          "Pressed": {
+            "$type": "color",
+            "$value": "{Config.Neutral.800}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Neutral.400}"
+          }
+        }
+      },
+      "Transperent": {
+        "$type": "color",
+        "$value": "{Color.Transperent}"
+      },
+      "Selector": {
+        "$type": "color",
+        "$value": "{Config.Primary.75}"
+      },
+      "Table": {
+        "Odd": {
+          "$type": "color",
+          "$value": "{Config.Neutral.White}"
+        },
+        "Even": {
+          "$type": "color",
+          "$value": "{Config.Neutral.25}"
+        },
+        "Hover": {
+          "$type": "color",
+          "$value": "{Config.Success.50}"
+        },
+        "Active": {
+          "$type": "color",
+          "$value": "{BG.Table.Hover}"
+        },
+        "Title": {
+          "$type": "color",
+          "$value": "{Config.Primary.50}"
+        },
+        "Summary": {
+          "$type": "color",
+          "$value": "{Config.Warning.50}"
+        }
+      }
+    },
+    "Divider": {
+      "Block": {
+        "$type": "color",
+        "$value": "{Config.Neutral.100}"
+      },
+      "Primary": {
+        "$type": "color",
+        "$value": "{Config.Primary.100}"
+      },
+      "Information": {
+        "$type": "color",
+        "$value": "{Config.Info.100}"
+      },
+      "Success": {
+        "$type": "color",
+        "$value": "{Config.Success.100}"
+      },
+      "Warning": {
+        "$type": "color",
+        "$value": "{Config.Warning.100}"
+      },
+      "Danger": {
+        "$type": "color",
+        "$value": "{Config.Danger.100}"
+      },
+      "Promotion": {
+        "$type": "color",
+        "$value": "{Config.Promotion.100}"
+      },
+      "Dot": {
+        "$type": "color",
+        "$value": "{Config.Neutral.150}"
+      }
+    },
+    "Icon": {
+      "Neutral": {
+        "Strong": {
+          "$type": "color",
+          "$value": "{Text.Neutral.Strong}"
+        },
+        "Label": {
+          "$type": "color",
+          "$value": "{Text.Neutral.Secondary}"
+        },
+        "Default": {
+          "$type": "color",
+          "$value": "{Text.Neutral.Default}"
+        },
+        "Disabled": {
+          "$type": "color",
+          "$value": "{Text.Neutral.Disabled}"
+        },
+        "onBG": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Text.Neutral.onSolid.Default}"
+          },
+          "Label": {
+            "$type": "color",
+            "$value": "{Config.Neutral.150}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Neutral.300}"
+          }
+        },
+        "Tertiary": {
+          "$type": "color",
+          "$value": "{Text.Neutral.Tertiary}"
+        }
+      },
+      "Primary": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Text.Primary.Default}"
+        },
+        "Strong": {
+          "$type": "color",
+          "$value": "{Text.Info.Strong}"
+        },
+        "onBG": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Primary.50}"
+          },
+          "Label": {
+            "$type": "color",
+            "$value": "{Config.Primary.150}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Text.Primary.Disabled}"
+          }
+        },
+        "Tertiary": {
+          "$type": "color",
+          "$value": "{Text.Primary.Secondary}"
+        }
+      },
+      "Info": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Text.Info.Default}"
+        },
+        "Strong": {
+          "$type": "color",
+          "$value": "{Text.Info.Strong}"
+        },
+        "Tertiary": {
+          "$type": "color",
+          "$value": "{Text.Info.Secondary}"
+        },
+        "onBG": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Primary.50}"
+          },
+          "Label": {
+            "$type": "color",
+            "$value": "{Config.Primary.150}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Primary.300}"
+          }
+        }
+      },
+      "Success": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Text.Success.Default}"
+        },
+        "Strong": {
+          "$type": "color",
+          "$value": "{Text.Success.Strong}"
+        },
+        "Tertiary": {
+          "$type": "color",
+          "$value": "{Text.Success.Secondary}"
+        },
+        "onBG": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Success.50}"
+          },
+          "Label": {
+            "$type": "color",
+            "$value": "{Config.Success.150}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Success.300}"
+          }
+        }
+      },
+      "Warning": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Text.Warning.Default}"
+        },
+        "Strong": {
+          "$type": "color",
+          "$value": "{Text.Warning.Strong}"
+        },
+        "Tertiary": {
+          "$type": "color",
+          "$value": "{Text.Warning.Secondary}"
+        },
+        "onBG": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Warning.50}"
+          },
+          "Label": {
+            "$type": "color",
+            "$value": "{Config.Warning.150}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Warning.300}"
+          }
+        }
+      },
+      "Danger": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Text.Danger.Default}"
+        },
+        "Strong": {
+          "$type": "color",
+          "$value": "{Text.Danger.Strong}"
+        },
+        "Tertiary": {
+          "$type": "color",
+          "$value": "{Text.Danger.Secondary}"
+        },
+        "onBG": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Danger.50}"
+          },
+          "Label": {
+            "$type": "color",
+            "$value": "{Config.Danger.150}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Danger.300}"
+          }
+        }
+      },
+      "Promotion": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Text.Promotion.Default}"
+        },
+        "Strong": {
+          "$type": "color",
+          "$value": "{Text.Promotion.Strong}"
+        },
+        "onBG": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Promotion.50}"
+          },
+          "Label": {
+            "$type": "color",
+            "$value": "{Config.Promotion.150}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Promotion.150}"
+          }
+        },
+        "Tertiary": {
+          "$type": "color",
+          "$value": "{Text.Promotion.Secondary}"
+        }
+      }
+    },
+    "Border": {
+      "Table": {
+        "Data": {
+          "$type": "color",
+          "$value": "{Divider.Block}"
+        },
+        "TItle": {
+          "$type": "color",
+          "$value": "{Border.Primary.Disabled}"
+        },
+        "Summary": {
+          "$type": "color",
+          "$value": "{Border.Warning.Disabled}"
+        },
+        "Container": {
+          "$type": "color",
+          "$value": "{Border.Neutral.Disabled}"
+        }
+      },
+      "Neutral": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Config.Neutral.500}"
+        },
+        "Disabled": {
+          "$type": "color",
+          "$value": "{Config.Neutral.100}"
+        },
+        "Faded": {
+          "$type": "color",
+          "$value": "{Config.Neutral.150}"
+        },
+        "Secondary": {
+          "$type": "color",
+          "$value": "{Config.Neutral.300}"
+        }
+      },
+      "Form": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Border.Neutral.Faded}"
+        },
+        "Focused": {
+          "$type": "color",
+          "$value": "{Border.Primary.Default}"
+        },
+        "Typing": {
+          "$type": "color",
+          "$value": "{Border.Primary.Default}"
+        },
+        "Error": {
+          "$type": "color",
+          "$value": "{Border.Danger.Default}"
+        },
+        "Required": {
+          "$type": "color",
+          "$value": "{Border.Danger.Default}"
+        },
+        "Disabled": {
+          "$type": "color",
+          "$value": "{Border.Neutral.Disabled}"
+        },
+        "Success": {
+          "$type": "color",
+          "$value": "{Border.Success.Default}"
+        }
+      },
+      "Primary": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Config.Primary.500}"
+        },
+        "Disabled": {
+          "$type": "color",
+          "$value": "{Config.Primary.100}"
+        },
+        "Faded": {
+          "$type": "color",
+          "$value": "{Config.Primary.150}"
+        },
+        "Secondary": {
+          "$type": "color",
+          "$value": "{Config.Primary.300}"
+        }
+      },
+      "Success": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Config.Success.500}"
+        },
+        "Disabled": {
+          "$type": "color",
+          "$value": "{Config.Success.100}"
+        },
+        "Faded": {
+          "$type": "color",
+          "$value": "{Config.Success.150}"
+        },
+        "Secondary": {
+          "$type": "color",
+          "$value": "{Config.Success.300}"
+        }
+      },
+      "Information": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Config.Info.500}"
+        },
+        "Disabled": {
+          "$type": "color",
+          "$value": "{Config.Info.100}"
+        },
+        "Faded": {
+          "$type": "color",
+          "$value": "{Config.Info.150}"
+        },
+        "Secondary": {
+          "$type": "color",
+          "$value": "{Config.Info.300}"
+        }
+      },
+      "Warning": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Config.Warning.500}"
+        },
+        "Disabled": {
+          "$type": "color",
+          "$value": "{Config.Warning.100}"
+        },
+        "Faded": {
+          "$type": "color",
+          "$value": "{Config.Warning.150}"
+        },
+        "Secondary": {
+          "$type": "color",
+          "$value": "{Config.Warning.300}"
+        }
+      },
+      "Danger": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Config.Danger.500}"
+        },
+        "Disabled": {
+          "$type": "color",
+          "$value": "{Config.Danger.100}"
+        },
+        "Faded": {
+          "$type": "color",
+          "$value": "{Config.Danger.150}"
+        },
+        "Secondary": {
+          "$type": "color",
+          "$value": "{Config.Danger.300}"
+        }
+      },
+      "Promotion": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Config.Promotion.500}"
+        },
+        "Disabled": {
+          "$type": "color",
+          "$value": "{Config.Promotion.100}"
+        },
+        "Faded": {
+          "$type": "color",
+          "$value": "{Config.Promotion.150}"
+        },
+        "Secondary": {
+          "$type": "color",
+          "$value": "{Config.Promotion.300}"
+        }
+      },
+      "onSolid": {
+        "$type": "color",
+        "$value": "{Config.Neutral.White}"
+      }
+    },
+    "Text": {
+      "Neutral": {
+        "onSolid": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Neutral.White}"
+          },
+          "Secondary": {
+            "$type": "color",
+            "$value": "{Config.Neutral.100}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Neutral.300}"
+          }
+        },
+        "Base": {
+          "$type": "color",
+          "$value": "{Config.Neutral.900}"
+        },
+        "Strong": {
+          "$type": "color",
+          "$value": "{Config.Neutral.800}"
+        },
+        "Label": {
+          "$type": "color",
+          "$value": "{Config.Neutral.700}"
+        },
+        "Read Only": {
+          "$type": "color",
+          "$value": "{Config.Neutral.700}"
+        },
+        "Secondary": {
+          "$type": "color",
+          "$value": "{Config.Neutral.600}"
+        },
+        "Default": {
+          "$type": "color",
+          "$value": "{Config.Neutral.500}"
+        },
+        "Tertiary": {
+          "$type": "color",
+          "$value": "{Config.Neutral.400}"
+        },
+        "Placeholder": {
+          "$type": "color",
+          "$value": "{Config.Neutral.300}"
+        },
+        "Disabled": {
+          "$type": "color",
+          "$value": "{Config.Neutral.200}"
+        },
+        "onDisabled": {
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Neutral.50}"
+          }
+        }
+      },
+      "Link": {
+        "$type": "color",
+        "$value": "{Config.Primary.500}"
+      },
+      "Primary": {
+        "Strong": {
+          "$type": "color",
+          "$value": "{Config.Primary.600}"
+        },
+        "Default": {
+          "$type": "color",
+          "$value": "{Config.Primary.500}"
+        },
+        "Secondary": {
+          "$type": "color",
+          "$value": "{Config.Primary.400}"
+        },
+        "Disabled": {
+          "$type": "color",
+          "$value": "{Config.Primary.200}"
+        },
+        "onSolid": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Neutral.White}"
+          },
+          "Secondary": {
+            "$type": "color",
+            "$value": "{Config.Primary.100}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Primary.300}"
+          }
+        },
+        "onDisabled": {
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Primary.50}"
+          }
+        }
+      },
+      "Info": {
+        "Strong": {
+          "$type": "color",
+          "$value": "{Config.Info.600}"
+        },
+        "Default": {
+          "$type": "color",
+          "$value": "{Config.Info.500}"
+        },
+        "Secondary": {
+          "$type": "color",
+          "$value": "{Config.Info.400}"
+        },
+        "Disabled": {
+          "$type": "color",
+          "$value": "{Config.Info.200}"
+        },
+        "onSolid": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Neutral.White}"
+          },
+          "Secondary": {
+            "$type": "color",
+            "$value": "{Config.Info.100}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Info.300}"
+          }
+        },
+        "onDisabled": {
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Info.50}"
+          }
+        }
+      },
+      "Success": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Config.Success.500}"
+        },
+        "Strong": {
+          "$type": "color",
+          "$value": "{Config.Success.600}"
+        },
+        "Disabled": {
+          "$type": "color",
+          "$value": "{Config.Success.200}"
+        },
+        "Secondary": {
+          "$type": "color",
+          "$value": "{Config.Success.400}"
+        },
+        "onSolid": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Neutral.White}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Success.300}"
+          },
+          "Secondary": {
+            "$type": "color",
+            "$value": "{Config.Success.100}"
+          }
+        },
+        "onDisabled": {
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Success.50}"
+          }
+        }
+      },
+      "Danger": {
+        "Strong": {
+          "$type": "color",
+          "$value": "{Config.Danger.600}"
+        },
+        "Default": {
+          "$type": "color",
+          "$value": "{Config.Danger.500}"
+        },
+        "Secondary": {
+          "$type": "color",
+          "$value": "{Config.Danger.400}"
+        },
+        "Disabled": {
+          "$type": "color",
+          "$value": "{Config.Danger.200}"
+        },
+        "onSolid": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Neutral.White}"
+          },
+          "Secondary": {
+            "$type": "color",
+            "$value": "{Config.Danger.100}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Danger.300}"
+          }
+        },
+        "onDisabled": {
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Danger.50}"
+          }
+        }
+      },
+      "Warning": {
+        "Default": {
+          "$type": "color",
+          "$value": "{Config.Warning.500}"
+        },
+        "Strong": {
+          "$type": "color",
+          "$value": "{Config.Warning.600}"
+        },
+        "Disabled": {
+          "$type": "color",
+          "$value": "{Config.Warning.200}"
+        },
+        "Secondary": {
+          "$type": "color",
+          "$value": "{Config.Warning.400}"
+        },
+        "onSolid": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Neutral.White}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Warning.300}"
+          },
+          "Secondary": {
+            "$type": "color",
+            "$value": "{Config.Warning.100}"
+          }
+        },
+        "onDisabled": {
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Warning.50}"
+          }
+        }
+      },
+      "Promotion": {
+        "Strong": {
+          "$type": "color",
+          "$value": "{Config.Promotion.600}"
+        },
+        "Default": {
+          "$type": "color",
+          "$value": "{Config.Promotion.500}"
+        },
+        "Secondary": {
+          "$type": "color",
+          "$value": "{Config.Promotion.400}"
+        },
+        "Disabled": {
+          "$type": "color",
+          "$value": "{Config.Promotion.200}"
+        },
+        "onSolid": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Config.Neutral.White}"
+          },
+          "Secondary": {
+            "$type": "color",
+            "$value": "{Config.Promotion.100}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Promotion.300}"
+          }
+        },
+        "onDisabled": {
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Config.Promotion.50}"
+          }
+        }
+      }
+    }
+  }

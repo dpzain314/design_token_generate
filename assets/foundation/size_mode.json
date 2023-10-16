@@ -1,0 +1,44 @@
+{
+  "Size": {
+    "12": {
+      "$type": "number",
+      "$value": "{Spacing.S.2}"
+    },
+    "16": {
+      "$type": "number",
+      "$value": "{Spacing.S.3}"
+    },
+    "20": {
+      "$type": "number",
+      "$value": "{Spacing.S.4}"
+    },
+    "24": {
+      "$type": "number",
+      "$value": "{Spacing.M.1}"
+    },
+    "32": {
+      "$type": "number",
+      "$value": "{Spacing.M.2}"
+    },
+    "40": {
+      "$type": "number",
+      "$value": "{Spacing.M.3}"
+    },
+    "48": {
+      "$type": "number",
+      "$value": "{Spacing.M.4}"
+    },
+    "56": {
+      "$type": "number",
+      "$value": "{Spacing.L.1}"
+    },
+    "68": {
+      "$type": "number",
+      "$value": "{Spacing.L.2}"
+    },
+    "80": {
+      "$type": "number",
+      "$value": "{Spacing.L.3}"
+    }
+  }
+}

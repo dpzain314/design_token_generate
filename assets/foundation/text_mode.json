@@ -1,0 +1,404 @@
+{
+    "Styles": {
+      "Body": {
+        "L": {
+          "Font Size": {
+            "$type": "number",
+            "$value": "{Text.Font Size.4}"
+          },
+          "Line Height": {
+            "$type": "number",
+            "$value": "{Text.Line Height.4}"
+          },
+          "Weight": {
+            "$type": "number",
+            "$value": "{Text.Weight.Regular}"
+          },
+          "Paragraph Spacing": {
+            "$type": "number",
+            "$value": "{Text.Paragraph Spacing.4}"
+          }
+        },
+        "M-RE": {
+          "Font Size": {
+            "$type": "number",
+            "$value": "{Text.Font Size.3}"
+          },
+          "Line Height": {
+            "$type": "number",
+            "$value": "{Text.Line Height.3}"
+          },
+          "Weight": {
+            "$type": "number",
+            "$value": "{Text.Weight.Regular}"
+          },
+          "Paragraph Spacing": {
+            "$type": "number",
+            "$value": "{Text.Paragraph Spacing.3}"
+          }
+        },
+        "M-ME": {
+          "Font Size": {
+            "$type": "number",
+            "$value": "{Text.Font Size.3}"
+          },
+          "Line Height": {
+            "$type": "number",
+            "$value": "{Text.Line Height.3}"
+          },
+          "Weight": {
+            "$type": "number",
+            "$value": "{Text.Weight.Medium}"
+          },
+          "Paragraph Spacing": {
+            "$type": "number",
+            "$value": "{Text.Paragraph Spacing.3}"
+          }
+        },
+        "M-SE": {
+          "Font Size": {
+            "$type": "number",
+            "$value": "{Text.Font Size.3}"
+          },
+          "Line Height": {
+            "$type": "number",
+            "$value": "{Text.Line Height.3}"
+          },
+          "Weight": {
+            "$type": "number",
+            "$value": "{Text.Weight.SemiBold}"
+          },
+          "Paragraph Spacing": {
+            "$type": "number",
+            "$value": "{Text.Paragraph Spacing.3}"
+          }
+        }
+      },
+      "Caption": {
+        "RE": {
+          "Font Size": {
+            "$type": "number",
+            "$value": "{Text.Font Size.2}"
+          },
+          "Line Height": {
+            "$type": "number",
+            "$value": "{Text.Line Height.2}"
+          },
+          "Weight": {
+            "$type": "number",
+            "$value": "{Text.Weight.Regular}"
+          },
+          "Paragraph Spacing": {
+            "$type": "number",
+            "$value": "{Text.Paragraph Spacing.2}"
+          }
+        },
+        "SE": {
+          "Font Size": {
+            "$type": "number",
+            "$value": "{Text.Font Size.2}"
+          },
+          "Line Height": {
+            "$type": "number",
+            "$value": "{Text.Line Height.2}"
+          },
+          "Weight": {
+            "$type": "number",
+            "$value": "{Text.Weight.Regular}"
+          },
+          "Paragraph Spacing": {
+            "$type": "number",
+            "$value": "{Text.Paragraph Spacing.2}"
+          }
+        }
+      },
+      "Headline": {
+        "XL": {
+          "Font Size": {
+            "$type": "number",
+            "$value": "{Text.Font Size.9}"
+          },
+          "Line Height": {
+            "$type": "number",
+            "$value": "{Text.Line Height.9}"
+          },
+          "Weight": {
+            "$type": "number",
+            "$value": "{Text.Weight.Bold}"
+          },
+          "Paragraph Spacing": {
+            "$type": "number",
+            "$value": "{Text.Paragraph Spacing.Auto}"
+          }
+        },
+        "L": {
+          "Font Size": {
+            "$type": "number",
+            "$value": "{Text.Font Size.8}"
+          },
+          "Line Height": {
+            "$type": "number",
+            "$value": "{Text.Line Height.8}"
+          },
+          "Weight": {
+            "$type": "number",
+            "$value": "{Text.Weight.Bold}"
+          },
+          "Paragraph Spacing": {
+            "$type": "number",
+            "$value": "{Text.Paragraph Spacing.Auto}"
+          }
+        },
+        "M": {
+          "Font Size": {
+            "$type": "number",
+            "$value": "{Text.Font Size.7}"
+          },
+          "Line Height": {
+            "$type": "number",
+            "$value": "{Text.Line Height.7}"
+          },
+          "Weight": {
+            "$type": "number",
+            "$value": "{Text.Weight.Bold}"
+          },
+          "Paragraph Spacing": {
+            "$type": "number",
+            "$value": "{Text.Paragraph Spacing.Auto}"
+          }
+        },
+        "S": {
+          "Font Size": {
+            "$type": "number",
+            "$value": "{Text.Font Size.6}"
+          },
+          "Line Height": {
+            "$type": "number",
+            "$value": "{Text.Line Height.6}"
+          },
+          "Weight": {
+            "$type": "number",
+            "$value": "{Text.Weight.Bold}"
+          },
+          "Paragraph Spacing": {
+            "$type": "number",
+            "$value": "{Text.Paragraph Spacing.Auto}"
+          }
+        },
+        "XS": {
+          "Font Size": {
+            "$type": "number",
+            "$value": "{Text.Font Size.5}"
+          },
+          "Line Height": {
+            "$type": "number",
+            "$value": "{Text.Line Height.5}"
+          },
+          "Weight": {
+            "$type": "number",
+            "$value": "{Text.Weight.Bold}"
+          },
+          "Paragraph Spacing": {
+            "$type": "number",
+            "$value": "{Text.Paragraph Spacing.Auto}"
+          }
+        }
+      },
+      "Display": {
+        "Font Size": {
+          "$type": "number",
+          "$value": "{Text.Font Size.10}"
+        },
+        "Line Height": {
+          "$type": "number",
+          "$value": "{Text.Line Height.10}"
+        },
+        "Weight": {
+          "$type": "number",
+          "$value": "{Text.Weight.Extra Bold}"
+        },
+        "Paragraph Spacing": {
+          "$type": "number",
+          "$value": "{Text.Paragraph Spacing.Auto}"
+        }
+      },
+      "Title": {
+        "XL": {
+          "Font Size": {
+            "$type": "number",
+            "$value": "{Text.Font Size.5}"
+          },
+          "Line Height": {
+            "$type": "number",
+            "$value": "{Text.Line Height.5}"
+          },
+          "Weight": {
+            "$type": "number",
+            "$value": "{Text.Weight.SemiBold}"
+          },
+          "Paragraph Spacing": {
+            "$type": "number",
+            "$value": "{Text.Paragraph Spacing.Auto}"
+          }
+        },
+        "L": {
+          "Font Size": {
+            "$type": "number",
+            "$value": "{Text.Font Size.4}"
+          },
+          "Line Height": {
+            "$type": "number",
+            "$value": "{Text.Line Height.4}"
+          },
+          "Weight": {
+            "$type": "number",
+            "$value": "{Text.Weight.SemiBold}"
+          },
+          "Paragraph Spacing": {
+            "$type": "number",
+            "$value": "{Text.Paragraph Spacing.Auto}"
+          }
+        },
+        "M": {
+          "Font Size": {
+            "$type": "number",
+            "$value": "{Text.Font Size.3}"
+          },
+          "Line Height": {
+            "$type": "number",
+            "$value": "{Text.Line Height.3}"
+          },
+          "Weight": {
+            "$type": "number",
+            "$value": "{Text.Weight.SemiBold}"
+          },
+          "Paragraph Spacing": {
+            "$type": "number",
+            "$value": "{Text.Paragraph Spacing.Auto}"
+          }
+        },
+        "S": {
+          "Font Size": {
+            "$type": "number",
+            "$value": "{Text.Font Size.2}"
+          },
+          "Line Height": {
+            "$type": "number",
+            "$value": "{Text.Line Height.2}"
+          },
+          "Weight": {
+            "$type": "number",
+            "$value": "{Text.Weight.SemiBold}"
+          },
+          "Paragraph Spacing": {
+            "$type": "number",
+            "$value": "{Text.Paragraph Spacing.Auto}"
+          }
+        }
+      },
+      "Navigation": {
+        "Font Size": {
+          "$type": "number",
+          "$value": "{Text.Font Size.1}"
+        },
+        "Line Height": {
+          "$type": "number",
+          "$value": "{Text.Line Height.1}"
+        },
+        "Weight": {
+          "$type": "number",
+          "$value": "{Text.Weight.Medium}"
+        },
+        "Paragraph Spacing": {
+          "$type": "number",
+          "$value": "{Text.Paragraph Spacing.Auto}"
+        }
+      },
+      "Label": {
+        "XL": {
+          "Font Size": {
+            "$type": "number",
+            "$value": "{Text.Font Size.5}"
+          },
+          "Line Height": {
+            "$type": "number",
+            "$value": "{Text.Line Height.5}"
+          },
+          "Weight": {
+            "$type": "number",
+            "$value": "{Text.Weight.Medium}"
+          }
+        },
+        "XS": {
+          "Font Size": {
+            "$type": "number",
+            "$value": "{Text.Font Size.1}"
+          },
+          "Line Height": {
+            "$type": "number",
+            "$value": "{Text.Line Height.1}"
+          },
+          "Weight": {
+            "$type": "number",
+            "$value": "{Text.Weight.Medium}"
+          }
+        },
+        "S": {
+          "Font Size": {
+            "$type": "number",
+            "$value": "{Text.Font Size.2}"
+          },
+          "Line Height": {
+            "$type": "number",
+            "$value": "{Text.Line Height.2}"
+          },
+          "Weight": {
+            "$type": "number",
+            "$value": "{Text.Weight.Medium}"
+          }
+        },
+        "S-U": {
+          "Font Size": {
+            "$type": "number",
+            "$value": "{Text.Font Size.2}"
+          },
+          "Line Height": {
+            "$type": "number",
+            "$value": "{Text.Line Height.2}"
+          },
+          "Weight": {
+            "$type": "number",
+            "$value": "{Text.Weight.Medium}"
+          }
+        },
+        "M": {
+          "Font Size": {
+            "$type": "number",
+            "$value": "{Text.Font Size.3}"
+          },
+          "Line Height": {
+            "$type": "number",
+            "$value": "{Text.Line Height.3}"
+          },
+          "Weight": {
+            "$type": "number",
+            "$value": "{Text.Weight.Medium}"
+          }
+        },
+        "L": {
+          "Font Size": {
+            "$type": "number",
+            "$value": "{Text.Font Size.4}"
+          },
+          "Line Height": {
+            "$type": "number",
+            "$value": "{Text.Line Height.4}"
+          },
+          "Weight": {
+            "$type": "number",
+            "$value": "{Text.Weight.Medium}"
+          }
+        }
+      }
+    }
+  }
