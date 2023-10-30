@@ -1,672 +1,672 @@
 {
-    "Button": {
-      "Color": {
-        "Text": {
-          "Primary": {
-            "Solid": {
-              "Enabled": {
-                "$type": "color",
-                "$value": "{Text.Neutral.onSolid.Default}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{Text.Primary.onDisabled.Disabled}"
-              }
+  "Button": {
+    "Color": {
+      "Text": {
+        "Primary": {
+          "Solid": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Text.Neutral.onSolid.Default}"
             },
-            "Faded": {
-              "Enabled": {
-                "$type": "color",
-                "$value": "{Text.Primary.Strong}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{Text.Primary.Disabled}"
-              }
-            },
-            "Outline": {
-              "Enabled": {
-                "$type": "color",
-                "$value": "{Text.Primary.Default}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{Text.Primary.Disabled}"
-              }
-            },
-            "Tertiary": {
-              "Enabled": {
-                "$type": "color",
-                "$value": "{Text.Primary.Default}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{Text.Primary.Disabled}"
-              }
+            "Disabled": {
+              "$type": "color",
+              "$value": "{Text.Primary.onDisabled.Disabled}"
             }
           },
-          "Success": {
-            "Solid": {
-              "Enabled": {
-                "$type": "color",
-                "$value": "{Text.Success.onSolid.Default}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{Text.Success.onDisabled.Disabled}"
-              }
+          "Faded": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Text.Primary.Strong}"
             },
-            "Faded": {
-              "Enabled": {
-                "$type": "color",
-                "$value": "{Text.Success.Strong}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{Text.Success.Disabled}"
-              }
-            },
-            "Outline": {
-              "Enabled": {
-                "$type": "color",
-                "$value": "{Text.Success.Default}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{Text.Success.Disabled}"
-              }
-            },
-            "Tertiary": {
-              "Enabled": {
-                "$type": "color",
-                "$value": "{Text.Success.Default}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{Text.Success.Disabled}"
-              }
+            "Disabled": {
+              "$type": "color",
+              "$value": "{Text.Primary.Disabled}"
             }
           },
-          "Warning": {
-            "Solid": {
-              "Enabled": {
-                "$type": "color",
-                "$value": "{Text.Warning.onSolid.Default}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{Text.Warning.onDisabled.Disabled}"
-              }
+          "Outline": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Text.Primary.Default}"
             },
-            "Faded": {
-              "Enabled": {
-                "$type": "color",
-                "$value": "{Text.Warning.Strong}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{Text.Warning.Disabled}"
-              }
-            },
-            "Outline": {
-              "Enabled": {
-                "$type": "color",
-                "$value": "{Text.Warning.Default}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{Text.Warning.Disabled}"
-              }
-            },
-            "Tertiary": {
-              "Enabled": {
-                "$type": "color",
-                "$value": "{Text.Warning.Default}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{Text.Warning.Disabled}"
-              }
+            "Disabled": {
+              "$type": "color",
+              "$value": "{Text.Primary.Disabled}"
             }
           },
-          "Danger": {
-            "Solid": {
-              "Enabled": {
-                "$type": "color",
-                "$value": "{Text.Danger.onSolid.Default}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{Text.Danger.onDisabled.Disabled}"
-              }
+          "Tertiary": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Text.Primary.Default}"
             },
-            "Faded": {
-              "Enabled": {
-                "$type": "color",
-                "$value": "{Text.Danger.Strong}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{Text.Danger.Disabled}"
-              }
-            },
-            "Outline": {
-              "Enabled": {
-                "$type": "color",
-                "$value": "{Text.Danger.Default}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{Text.Danger.Disabled}"
-              }
-            },
-            "Tertiary": {
-              "Enabled": {
-                "$type": "color",
-                "$value": "{Text.Danger.Default}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{Text.Danger.Disabled}"
-              }
-            }
-          },
-          "Neutral": {
-            "Solid": {
-              "Enabled": {
-                "$type": "color",
-                "$value": "{Text.Neutral.onSolid.Default}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{Text.Neutral.onDisabled.Disabled}"
-              }
-            },
-            "Faded": {
-              "Enabled": {
-                "$type": "color",
-                "$value": "{Text.Neutral.Strong}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{Text.Neutral.Disabled}"
-              }
-            },
-            "Outline": {
-              "Enabled": {
-                "$type": "color",
-                "$value": "{Text.Neutral.Default}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{Text.Neutral.Disabled}"
-              }
-            },
-            "Tertiary": {
-              "Enabled": {
-                "$type": "color",
-                "$value": "{Text.Neutral.Default}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{Text.Neutral.Disabled}"
-              }
+            "Disabled": {
+              "$type": "color",
+              "$value": "{Text.Primary.Disabled}"
             }
           }
         },
-        "BG": {
-          "Primary": {
-            "Solid": {
-              "Default": {
-                "$type": "color",
-                "$value": "{BG.Primary.Solid.Default}"
-              },
-              "Pressed": {
-                "$type": "color",
-                "$value": "{BG.Primary.Solid.Pressed}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{BG.Primary.Solid.Disabled}"
-              }
+        "Success": {
+          "Solid": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Text.Success.onSolid.Default}"
             },
-            "Faded": {
-              "Default": {
-                "$type": "color",
-                "$value": "{BG.Primary.Faded.Default}"
-              },
-              "Pressed": {
-                "$type": "color",
-                "$value": "{BG.Primary.Faded.Pressed}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{BG.Primary.Faded.Disabled}"
-              }
-            },
-            "Outline": {
-              "Default": {
-                "$type": "color",
-                "$value": "{BG.Primary.Tertiary.Default}"
-              },
-              "Pressed": {
-                "$type": "color",
-                "$value": "{BG.Primary.Tertiary.Pressed}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{BG.Primary.Tertiary.Disabled}"
-              }
-            },
-            "Tertiary": {
-              "Default": {
-                "$type": "color",
-                "$value": "{BG.Primary.Tertiary.Default}"
-              },
-              "Pressed": {
-                "$type": "color",
-                "$value": "{BG.Primary.Tertiary.Pressed}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{BG.Primary.Tertiary.Disabled}"
-              }
+            "Disabled": {
+              "$type": "color",
+              "$value": "{Text.Success.onDisabled.Disabled}"
             }
           },
-          "Success": {
-            "Solid": {
-              "Default": {
-                "$type": "color",
-                "$value": "{BG.Success.Solid.Default}"
-              },
-              "Pressed": {
-                "$type": "color",
-                "$value": "{BG.Success.Solid.Pressed}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{BG.Success.Solid.Disabled}"
-              }
+          "Faded": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Text.Success.Strong}"
             },
-            "Faded": {
-              "Default": {
-                "$type": "color",
-                "$value": "{BG.Success.Faded.Default}"
-              },
-              "Pressed": {
-                "$type": "color",
-                "$value": "{BG.Success.Faded.Pressed}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{BG.Success.Faded.Disabled}"
-              }
-            },
-            "Outline": {
-              "Default": {
-                "$type": "color",
-                "$value": "{BG.Success.Tertiary.Default}"
-              },
-              "Pressed": {
-                "$type": "color",
-                "$value": "{BG.Success.Tertiary.Pressed}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{BG.Success.Tertiary.Disabled}"
-              }
-            },
-            "Tertiary": {
-              "Default": {
-                "$type": "color",
-                "$value": "{BG.Success.Tertiary.Default}"
-              },
-              "Pressed": {
-                "$type": "color",
-                "$value": "{BG.Success.Tertiary.Pressed}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{BG.Success.Tertiary.Disabled}"
-              }
+            "Disabled": {
+              "$type": "color",
+              "$value": "{Text.Success.Disabled}"
             }
           },
-          "Warning": {
-            "Solid": {
-              "Default": {
-                "$type": "color",
-                "$value": "{BG.Warning.Solid.Default}"
-              },
-              "Pressed": {
-                "$type": "color",
-                "$value": "{BG.Warning.Solid.Pressed}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{BG.Warning.Solid.Disabled}"
-              }
+          "Outline": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Text.Success.Default}"
             },
-            "Faded": {
-              "Default": {
-                "$type": "color",
-                "$value": "{BG.Warning.Faded.Default}"
-              },
-              "Pressed": {
-                "$type": "color",
-                "$value": "{BG.Warning.Faded.Pressed}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{BG.Warning.Faded.Disabled}"
-              }
-            },
-            "Outline": {
-              "Default": {
-                "$type": "color",
-                "$value": "{BG.Warning.Tertiary.Default}"
-              },
-              "Pressed": {
-                "$type": "color",
-                "$value": "{BG.Warning.Tertiary.Pressed}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{BG.Warning.Tertiary.Disabled}"
-              }
-            },
-            "Tertiary": {
-              "Default": {
-                "$type": "color",
-                "$value": "{BG.Warning.Tertiary.Default}"
-              },
-              "Pressed": {
-                "$type": "color",
-                "$value": "{BG.Warning.Tertiary.Pressed}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{BG.Warning.Tertiary.Disabled}"
-              }
+            "Disabled": {
+              "$type": "color",
+              "$value": "{Text.Success.Disabled}"
             }
           },
-          "Danger": {
-            "Solid": {
-              "Default": {
-                "$type": "color",
-                "$value": "{BG.Danger.Solid.Default}"
-              },
-              "Pressed": {
-                "$type": "color",
-                "$value": "{BG.Danger.Solid.Pressed}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{BG.Danger.Solid.Disabled}"
-              }
+          "Tertiary": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Text.Success.Default}"
             },
-            "Faded": {
-              "Default": {
-                "$type": "color",
-                "$value": "{BG.Danger.Faded.Default}"
-              },
-              "Pressed": {
-                "$type": "color",
-                "$value": "{BG.Danger.Faded.Pressed}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{BG.Danger.Faded.Disabled}"
-              }
-            },
-            "Outline": {
-              "Default": {
-                "$type": "color",
-                "$value": "{BG.Danger.Tertiary.Default}"
-              },
-              "Pressed": {
-                "$type": "color",
-                "$value": "{BG.Danger.Tertiary.Pressed}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{BG.Danger.Tertiary.Disabled}"
-              }
-            },
-            "Tertiary": {
-              "Default": {
-                "$type": "color",
-                "$value": "{BG.Danger.Tertiary.Default}"
-              },
-              "Pressed": {
-                "$type": "color",
-                "$value": "{BG.Danger.Tertiary.Pressed}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{BG.Danger.Tertiary.Disabled}"
-              }
-            }
-          },
-          "Neutral": {
-            "Solid": {
-              "Default": {
-                "$type": "color",
-                "$value": "{BG.Neutral.Solid.Default}"
-              },
-              "Pressed": {
-                "$type": "color",
-                "$value": "{BG.Neutral.Solid.Pressed}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{BG.Neutral.Solid.Disabled}"
-              }
-            },
-            "Faded": {
-              "Default": {
-                "$type": "color",
-                "$value": "{BG.Neutral.Faded.Default}"
-              },
-              "Pressed": {
-                "$type": "color",
-                "$value": "{BG.Neutral.Faded.Pressed}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{BG.Neutral.Faded.Disabled}"
-              }
-            },
-            "Outline": {
-              "Default": {
-                "$type": "color",
-                "$value": "{BG.Neutral.Tertiary.Default}"
-              },
-              "Pressed": {
-                "$type": "color",
-                "$value": "{BG.Neutral.Tertiary.Pressed}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{BG.Neutral.Tertiary.Disabled}"
-              }
-            },
-            "Tertiary": {
-              "Default": {
-                "$type": "color",
-                "$value": "{BG.Neutral.Tertiary.Default}"
-              },
-              "Pressed": {
-                "$type": "color",
-                "$value": "{BG.Neutral.Tertiary.Pressed}"
-              },
-              "Disabled": {
-                "$type": "color",
-                "$value": "{BG.Neutral.Tertiary.Disabled}"
-              }
+            "Disabled": {
+              "$type": "color",
+              "$value": "{Text.Success.Disabled}"
             }
           }
         },
-        "Border": {
-          "Primary": {
+        "Warning": {
+          "Solid": {
             "Enabled": {
               "$type": "color",
-              "$value": "{Border.Primary.Default}"
+              "$value": "{Text.Warning.onSolid.Default}"
             },
             "Disabled": {
               "$type": "color",
-              "$value": "{Border.Primary.Disabled}"
+              "$value": "{Text.Warning.onDisabled.Disabled}"
             }
           },
-          "Success": {
+          "Faded": {
             "Enabled": {
               "$type": "color",
-              "$value": "{Border.Success.Default}"
+              "$value": "{Text.Warning.Strong}"
             },
             "Disabled": {
               "$type": "color",
-              "$value": "{Border.Success.Disabled}"
+              "$value": "{Text.Warning.Disabled}"
             }
           },
-          "Warning": {
+          "Outline": {
             "Enabled": {
               "$type": "color",
-              "$value": "{Border.Warning.Default}"
+              "$value": "{Text.Warning.Default}"
             },
             "Disabled": {
               "$type": "color",
-              "$value": "{Border.Warning.Disabled}"
+              "$value": "{Text.Warning.Disabled}"
             }
           },
-          "Danger": {
+          "Tertiary": {
             "Enabled": {
               "$type": "color",
-              "$value": "{Border.Danger.Default}"
+              "$value": "{Text.Warning.Default}"
             },
             "Disabled": {
               "$type": "color",
-              "$value": "{Border.Danger.Disabled}"
-            }
-          },
-          "Neutral": {
-            "Enabled": {
-              "$type": "color",
-              "$value": "{Border.Neutral.Default}"
-            },
-            "Disabled": {
-              "$type": "color",
-              "$value": "{Border.Neutral.Disabled}"
+              "$value": "{Text.Warning.Disabled}"
             }
           }
         },
-        "Icon": {
-          "Enabled": {
-            "$type": "color",
-            "$value": "{Icon.Neutral.Strong}"
+        "Danger": {
+          "Solid": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Text.Danger.onSolid.Default}"
+            },
+            "Disabled": {
+              "$type": "color",
+              "$value": "{Text.Danger.onDisabled.Disabled}"
+            }
+          },
+          "Faded": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Text.Danger.Strong}"
+            },
+            "Disabled": {
+              "$type": "color",
+              "$value": "{Text.Danger.Disabled}"
+            }
+          },
+          "Outline": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Text.Danger.Default}"
+            },
+            "Disabled": {
+              "$type": "color",
+              "$value": "{Text.Danger.Disabled}"
+            }
+          },
+          "Tertiary": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Text.Danger.Default}"
+            },
+            "Disabled": {
+              "$type": "color",
+              "$value": "{Text.Danger.Disabled}"
+            }
+          }
+        },
+        "Neutral": {
+          "Solid": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Text.Neutral.onSolid.Default}"
+            },
+            "Disabled": {
+              "$type": "color",
+              "$value": "{Text.Neutral.onDisabled.Disabled}"
+            }
+          },
+          "Faded": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Text.Neutral.Strong}"
+            },
+            "Disabled": {
+              "$type": "color",
+              "$value": "{Text.Neutral.Disabled}"
+            }
+          },
+          "Outline": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Text.Neutral.Default}"
+            },
+            "Disabled": {
+              "$type": "color",
+              "$value": "{Text.Neutral.Disabled}"
+            }
+          },
+          "Tertiary": {
+            "Enabled": {
+              "$type": "color",
+              "$value": "{Text.Neutral.Default}"
+            },
+            "Disabled": {
+              "$type": "color",
+              "$value": "{Text.Neutral.Disabled}"
+            }
           }
         }
       },
-      "Size": {
-        "XS": {
-          "$type": "number",
-          "$value": "{Size.24}"
-        },
-        "S": {
-          "$type": "number",
-          "$value": "{Size.32}"
-        },
-        "M": {
-          "$type": "number",
-          "$value": "{Size.40}"
-        },
-        "L": {
-          "$type": "number",
-          "$value": "{Size.48}"
-        },
-        "XL": {
-          "$type": "number",
-          "$value": "{Size.56}"
-        },
-        "Radius": {
-          "$type": "number",
-          "$value": "{Radius.Pill}"
-        },
-        "Padding": {
-          "Horizontal": {
-            "S": {
-              "$type": "number",
-              "$value": "{Padding.S.2}"
+      "BG": {
+        "Primary": {
+          "Solid": {
+            "Default": {
+              "$type": "color",
+              "$value": "{BG.Primary.Solid.Default}"
             },
-            "M": {
-              "$type": "number",
-              "$value": "{Padding.S.3}"
+            "Pressed": {
+              "$type": "color",
+              "$value": "{BG.Primary.Solid.Pressed}"
             },
-            "L": {
-              "$type": "number",
-              "$value": "{Padding.S.4}"
+            "Disabled": {
+              "$type": "color",
+              "$value": "{BG.Primary.Solid.Disabled}"
             }
           },
-          "Vertical": {
-            "S": {
-              "$type": "number",
-              "$value": "{Padding.S.1}"
+          "Faded": {
+            "Default": {
+              "$type": "color",
+              "$value": "{BG.Primary.Faded.Default}"
             },
-            "M": {
-              "$type": "number",
-              "$value": "{Padding.S.2H}"
+            "Pressed": {
+              "$type": "color",
+              "$value": "{BG.Primary.Faded.Pressed}"
             },
-            "L": {
-              "$type": "number",
-              "$value": "{Padding.S.2}"
+            "Disabled": {
+              "$type": "color",
+              "$value": "{BG.Primary.Faded.Disabled}"
+            }
+          },
+          "Outline": {
+            "Default": {
+              "$type": "color",
+              "$value": "{BG.Primary.Tertiary.Default}"
+            },
+            "Pressed": {
+              "$type": "color",
+              "$value": "{BG.Primary.Tertiary.Pressed}"
+            },
+            "Disabled": {
+              "$type": "color",
+              "$value": "{BG.Primary.Tertiary.Disabled}"
+            }
+          },
+          "Tertiary": {
+            "Default": {
+              "$type": "color",
+              "$value": "{BG.Primary.Tertiary.Default}"
+            },
+            "Pressed": {
+              "$type": "color",
+              "$value": "{BG.Primary.Tertiary.Pressed}"
+            },
+            "Disabled": {
+              "$type": "color",
+              "$value": "{BG.Primary.Tertiary.Disabled}"
             }
           }
         },
-        "Gutter": {
-          "S": {
-            "$type": "number",
-            "$value": "{Gutter.S.1}"
+        "Success": {
+          "Solid": {
+            "Default": {
+              "$type": "color",
+              "$value": "{BG.Success.Solid.Default}"
+            },
+            "Pressed": {
+              "$type": "color",
+              "$value": "{BG.Success.Solid.Pressed}"
+            },
+            "Disabled": {
+              "$type": "color",
+              "$value": "{BG.Success.Solid.Disabled}"
+            }
           },
-          "M": {
-            "$type": "number",
-            "$value": "{Gutter.S.2H}"
+          "Faded": {
+            "Default": {
+              "$type": "color",
+              "$value": "{BG.Success.Faded.Default}"
+            },
+            "Pressed": {
+              "$type": "color",
+              "$value": "{BG.Success.Faded.Pressed}"
+            },
+            "Disabled": {
+              "$type": "color",
+              "$value": "{BG.Success.Faded.Disabled}"
+            }
           },
-          "L": {
-            "$type": "number",
-            "$value": "{Gutter.S.2}"
+          "Outline": {
+            "Default": {
+              "$type": "color",
+              "$value": "{BG.Success.Tertiary.Default}"
+            },
+            "Pressed": {
+              "$type": "color",
+              "$value": "{BG.Success.Tertiary.Pressed}"
+            },
+            "Disabled": {
+              "$type": "color",
+              "$value": "{BG.Success.Tertiary.Disabled}"
+            }
+          },
+          "Tertiary": {
+            "Default": {
+              "$type": "color",
+              "$value": "{BG.Success.Tertiary.Default}"
+            },
+            "Pressed": {
+              "$type": "color",
+              "$value": "{BG.Success.Tertiary.Pressed}"
+            },
+            "Disabled": {
+              "$type": "color",
+              "$value": "{BG.Success.Tertiary.Disabled}"
+            }
           }
         },
-        "Border": {
-          "Stroke Width": {
-            "$type": "number",
-            "$value": 0.5
+        "Warning": {
+          "Solid": {
+            "Default": {
+              "$type": "color",
+              "$value": "{BG.Warning.Solid.Default}"
+            },
+            "Pressed": {
+              "$type": "color",
+              "$value": "{BG.Warning.Solid.Pressed}"
+            },
+            "Disabled": {
+              "$type": "color",
+              "$value": "{BG.Warning.Solid.Disabled}"
+            }
+          },
+          "Faded": {
+            "Default": {
+              "$type": "color",
+              "$value": "{BG.Warning.Faded.Default}"
+            },
+            "Pressed": {
+              "$type": "color",
+              "$value": "{BG.Warning.Faded.Pressed}"
+            },
+            "Disabled": {
+              "$type": "color",
+              "$value": "{BG.Warning.Faded.Disabled}"
+            }
+          },
+          "Outline": {
+            "Default": {
+              "$type": "color",
+              "$value": "{BG.Warning.Tertiary.Default}"
+            },
+            "Pressed": {
+              "$type": "color",
+              "$value": "{BG.Warning.Tertiary.Pressed}"
+            },
+            "Disabled": {
+              "$type": "color",
+              "$value": "{BG.Warning.Tertiary.Disabled}"
+            }
+          },
+          "Tertiary": {
+            "Default": {
+              "$type": "color",
+              "$value": "{BG.Warning.Tertiary.Default}"
+            },
+            "Pressed": {
+              "$type": "color",
+              "$value": "{BG.Warning.Tertiary.Pressed}"
+            },
+            "Disabled": {
+              "$type": "color",
+              "$value": "{BG.Warning.Tertiary.Disabled}"
+            }
+          }
+        },
+        "Danger": {
+          "Solid": {
+            "Default": {
+              "$type": "color",
+              "$value": "{BG.Danger.Solid.Default}"
+            },
+            "Pressed": {
+              "$type": "color",
+              "$value": "{BG.Danger.Solid.Pressed}"
+            },
+            "Disabled": {
+              "$type": "color",
+              "$value": "{BG.Danger.Solid.Disabled}"
+            }
+          },
+          "Faded": {
+            "Default": {
+              "$type": "color",
+              "$value": "{BG.Danger.Faded.Default}"
+            },
+            "Pressed": {
+              "$type": "color",
+              "$value": "{BG.Danger.Faded.Pressed}"
+            },
+            "Disabled": {
+              "$type": "color",
+              "$value": "{BG.Danger.Faded.Disabled}"
+            }
+          },
+          "Outline": {
+            "Default": {
+              "$type": "color",
+              "$value": "{BG.Danger.Tertiary.Default}"
+            },
+            "Pressed": {
+              "$type": "color",
+              "$value": "{BG.Danger.Tertiary.Pressed}"
+            },
+            "Disabled": {
+              "$type": "color",
+              "$value": "{BG.Danger.Tertiary.Disabled}"
+            }
+          },
+          "Tertiary": {
+            "Default": {
+              "$type": "color",
+              "$value": "{BG.Danger.Tertiary.Default}"
+            },
+            "Pressed": {
+              "$type": "color",
+              "$value": "{BG.Danger.Tertiary.Pressed}"
+            },
+            "Disabled": {
+              "$type": "color",
+              "$value": "{BG.Danger.Tertiary.Disabled}"
+            }
+          }
+        },
+        "Neutral": {
+          "Solid": {
+            "Default": {
+              "$type": "color",
+              "$value": "{BG.Neutral.Solid.Default}"
+            },
+            "Pressed": {
+              "$type": "color",
+              "$value": "{BG.Neutral.Solid.Pressed}"
+            },
+            "Disabled": {
+              "$type": "color",
+              "$value": "{BG.Neutral.Solid.Disabled}"
+            }
+          },
+          "Faded": {
+            "Default": {
+              "$type": "color",
+              "$value": "{BG.Neutral.Faded.Default}"
+            },
+            "Pressed": {
+              "$type": "color",
+              "$value": "{BG.Neutral.Faded.Pressed}"
+            },
+            "Disabled": {
+              "$type": "color",
+              "$value": "{BG.Neutral.Faded.Disabled}"
+            }
+          },
+          "Outline": {
+            "Default": {
+              "$type": "color",
+              "$value": "{BG.Neutral.Tertiary.Default}"
+            },
+            "Pressed": {
+              "$type": "color",
+              "$value": "{BG.Neutral.Tertiary.Pressed}"
+            },
+            "Disabled": {
+              "$type": "color",
+              "$value": "{BG.Neutral.Tertiary.Disabled}"
+            }
+          },
+          "Tertiary": {
+            "Default": {
+              "$type": "color",
+              "$value": "{BG.Neutral.Tertiary.Default}"
+            },
+            "Pressed": {
+              "$type": "color",
+              "$value": "{BG.Neutral.Tertiary.Pressed}"
+            },
+            "Disabled": {
+              "$type": "color",
+              "$value": "{BG.Neutral.Tertiary.Disabled}"
+            }
           }
         }
+      },
+      "Border": {
+        "Primary": {
+          "Enabled": {
+            "$type": "color",
+            "$value": "{Border.Primary.Default}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Border.Primary.Disabled}"
+          }
+        },
+        "Success": {
+          "Enabled": {
+            "$type": "color",
+            "$value": "{Border.Success.Default}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Border.Success.Disabled}"
+          }
+        },
+        "Warning": {
+          "Enabled": {
+            "$type": "color",
+            "$value": "{Border.Warning.Default}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Border.Warning.Disabled}"
+          }
+        },
+        "Danger": {
+          "Enabled": {
+            "$type": "color",
+            "$value": "{Border.Danger.Default}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Border.Danger.Disabled}"
+          }
+        },
+        "Neutral": {
+          "Enabled": {
+            "$type": "color",
+            "$value": "{Border.Neutral.Default}"
+          },
+          "Disabled": {
+            "$type": "color",
+            "$value": "{Border.Neutral.Disabled}"
+          }
+        }
+      },
+      "Icon": {
+        "Enabled": {
+          "$type": "color",
+          "$value": "{Icon.Neutral.Primary Action}"
+        }
+      }
+    },
+    "Size": {
+      "XS": {
+        "$type": "number",
+        "$value": "{Size.24}"
+      },
+      "S": {
+        "$type": "number",
+        "$value": "{Size.32}"
+      },
+      "M": {
+        "$type": "number",
+        "$value": "{Size.40}"
+      },
+      "L": {
+        "$type": "number",
+        "$value": "{Size.48}"
+      },
+      "XL": {
+        "$type": "number",
+        "$value": "{Size.56}"
       },
       "Radius": {
         "$type": "number",
-        "$value": "{Radius.S}"
-      }
-    },
-    "Button Group": {
-      "Gutter": {
-        "$type": "number",
-        "$value": "{Gutter.S.1}"
+        "$value": "{Radius.Pill}"
       },
       "Padding": {
-        "Top": {
-          "$type": "number",
-          "$value": "{Padding.S.3}"
+        "Horizontal": {
+          "S": {
+            "$type": "number",
+            "$value": "{Padding.S.2}"
+          },
+          "M": {
+            "$type": "number",
+            "$value": "{Padding.S.3}"
+          },
+          "L": {
+            "$type": "number",
+            "$value": "{Padding.S.4}"
+          }
         },
-        "Right": {
-          "$type": "number",
-          "$value": "{Padding.S.3}"
-        },
-        "Bottom": {
-          "$type": "number",
-          "$value": "{Padding.S.1}"
-        },
-        "Left": {
-          "$type": "number",
-          "$value": "{Padding.S.3}"
+        "Vertical": {
+          "S": {
+            "$type": "number",
+            "$value": "{Padding.S.1}"
+          },
+          "M": {
+            "$type": "number",
+            "$value": "{Padding.S.2H}"
+          },
+          "L": {
+            "$type": "number",
+            "$value": "{Padding.S.2}"
+          }
         }
+      },
+      "Gutter": {
+        "S": {
+          "$type": "number",
+          "$value": "{Gutter.S.1}"
+        },
+        "M": {
+          "$type": "number",
+          "$value": "{Gutter.S.2H}"
+        },
+        "L": {
+          "$type": "number",
+          "$value": "{Gutter.S.2}"
+        }
+      },
+      "Border": {
+        "Stroke Width": {
+          "$type": "number",
+          "$value": 0.5
+        }
+      }
+    },
+    "Radius": {
+      "$type": "number",
+      "$value": "{Radius.S}"
+    }
+  },
+  "Button Group": {
+    "Gutter": {
+      "$type": "number",
+      "$value": "{Gutter.S.1}"
+    },
+    "Padding": {
+      "Top": {
+        "$type": "number",
+        "$value": "{Padding.S.3}"
+      },
+      "Right": {
+        "$type": "number",
+        "$value": "{Padding.S.3}"
+      },
+      "Bottom": {
+        "$type": "number",
+        "$value": "{Padding.S.1}"
+      },
+      "Left": {
+        "$type": "number",
+        "$value": "{Padding.S.3}"
       }
     }
   }
+}

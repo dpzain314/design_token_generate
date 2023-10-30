@@ -7,7 +7,7 @@ const componentColorRegex = r'(^#[\w|\d]{6}$)';
 
 ///File content value
 const indexFileContentExportDartUi = "export 'dart:ui';\n";
-const indexFileContentExportFoundation = "export 'dart:ui';\n";
+const indexFileContentExportFoundation = "export '../foundation/index.dart';\n";
 
 const fileContentImportIndexFile = "import 'index.dart';\n\n";
 

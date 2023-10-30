@@ -708,6 +708,10 @@
       "1H": {
         "$type": "number",
         "$value": 1
+      },
+      "2H": {
+        "$type": "number",
+        "$value": 3
       }
     },
     "S": {

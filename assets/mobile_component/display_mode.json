@@ -1,140 +1,328 @@
 {
-    "List": {
-      "Gutter": {
-        "Horizontal": {
+  "List": {
+    "Padding": {
+      "Vertical": {
+        "S": {
+          "$type": "number",
+          "$value": "{Padding.S.1}"
+        },
+        "M": {
+          "$type": "number",
+          "$value": "{Padding.S.2}"
+        },
+        "L": {
+          "$type": "number",
+          "$value": "{Padding.S.3}"
+        }
+      },
+      "Horizontal": {
+        "Container": {
+          "$type": "number",
+          "$value": "{Padding.S.3}"
+        },
+        "Tree": {
+          "$type": "number",
+          "$value": "{Padding.S.4}"
+        },
+        "Tree lv 2": {
+          "$type": "number",
+          "$value": 0
+        }
+      }
+    },
+    "Gutter": {
+      "Horizontal": {
+        "Layout": {
           "$type": "number",
           "$value": "{Gutter.S.2}"
         },
-        "Vertical": {
+        "Inline": {
           "$type": "number",
           "$value": "{Gutter.XS.2}"
         }
       },
-      "Padding": {
-        "Horizontal": {
-          "$type": "number",
-          "$value": "{Padding.S.3}"
-        },
-        "Vertical": {
-          "$type": "number",
-          "$value": "{Padding.S.3}"
-        }
+      "Vertical": {
+        "$type": "number",
+        "$value": "{Gutter.XS.2}"
       }
-    },
-    "Tag": {
-      "Color": {
-        "BG": {
-          "Selected": {
+    }
+  },
+  "Tag": {
+    "Color": {
+      "Border": {
+        "Neutral": {
+          "$type": "color",
+          "$value": "{Border.Neutral.Faded}"
+        },
+        "Success": {
+          "$type": "color",
+          "$value": "{Border.Success.Faded}"
+        },
+        "Danger": {
+          "$type": "color",
+          "$value": "{Border.Danger.Faded}"
+        },
+        "Warning": {
+          "$type": "color",
+          "$value": "{Border.Warning.Faded}"
+        },
+        "Information": {
+          "$type": "color",
+          "$value": "{Border.Information.Faded}"
+        },
+        "Promotion": {
+          "$type": "color",
+          "$value": "{Border.Promotion.Faded}"
+        }
+      },
+      "BG": {
+        "Selected": {
+          "$type": "color",
+          "$value": "{Tag.Color.BG.Faded.Neutral}"
+        },
+        "Passed": {
+          "$type": "color",
+          "$value": "{Tag.Color.BG.Faded.Success}"
+        },
+        "False": {
+          "$type": "color",
+          "$value": "{Tag.Color.BG.Faded.Danger}"
+        },
+        "Promote": {
+          "$type": "color",
+          "$value": "{Tag.Color.BG.Faded.Promotion}"
+        },
+        "Faded": {
+          "Neutral": {
             "$type": "color",
             "$value": "{BG.Neutral.Faded.Default}"
           },
-          "Passed": {
+          "Success": {
             "$type": "color",
             "$value": "{BG.Success.Faded.Default}"
           },
-          "False": {
+          "Danger": {
+            "$type": "color",
+            "$value": "{BG.Danger.Faded.Default}"
+          },
+          "Warning": {
             "$type": "color",
             "$value": "{BG.Warning.Faded.Default}"
+          },
+          "Information": {
+            "$type": "color",
+            "$value": "{BG.Info.Faded.Default}"
           },
           "Promotion": {
             "$type": "color",
             "$value": "{BG.Promotion.Faded.Default}"
           }
         },
-        "Text": {
-          "Selected": {
-            "Default": {
-              "$type": "color",
-              "$value": "{Text.Neutral.Base}"
-            },
-            "Secondary": {
-              "$type": "color",
-              "$value": "{Text.Neutral.Secondary}"
-            }
+        "Solid": {
+          "Neutral": {
+            "$type": "color",
+            "$value": "{BG.Neutral.Solid.Default}"
           },
-          "Passed": {
-            "Default": {
-              "$type": "color",
-              "$value": "{Text.Success.Strong}"
-            },
-            "Secondary": {
-              "$type": "color",
-              "$value": "{Text.Success.Secondary}"
-            }
+          "Success": {
+            "$type": "color",
+            "$value": "{BG.Success.Solid.Default}"
           },
-          "False": {
-            "Default": {
-              "$type": "color",
-              "$value": "{Text.Danger.Strong}"
-            },
-            "Secondary": {
-              "$type": "color",
-              "$value": "{Text.Danger.Secondary}"
-            }
+          "Danger": {
+            "$type": "color",
+            "$value": "{BG.Danger.Solid.Default}"
+          },
+          "Warning": {
+            "$type": "color",
+            "$value": "{BG.Warning.Solid.Default}"
+          },
+          "Information": {
+            "$type": "color",
+            "$value": "{BG.Info.Solid.Default}"
           },
           "Promotion": {
-            "Default": {
-              "$type": "color",
-              "$value": "{Text.Promotion.Strong}"
-            },
-            "Secondary": {
-              "$type": "color",
-              "$value": "{Text.Promotion.Secondary}"
-            }
+            "$type": "color",
+            "$value": "{BG.Promotion.Solid.Default}"
           }
         }
       },
-      "Size": {
-        "S": {
-          "Height": {
-            "$type": "number",
-            "$value": "{Size.20}"
+      "Text": {
+        "Solid": {
+          "Neutral": {
+            "$type": "color",
+            "$value": "{Text.Neutral.onSolid.Secondary}"
           },
-          "Padding Horizontal": {
-            "$type": "number",
-            "$value": 0
+          "Success": {
+            "$type": "color",
+            "$value": "{Text.Success.onSolid.Secondary}"
           },
-          "Padding Vertical": {
-            "$type": "number",
-            "$value": 0
+          "Danger": {
+            "$type": "color",
+            "$value": "{Text.Danger.onSolid.Secondary}"
+          },
+          "Warning": {
+            "$type": "color",
+            "$value": "{Text.Warning.onSolid.Secondary}"
+          },
+          "Information": {
+            "$type": "color",
+            "$value": "{Text.Info.onSolid.Secondary}"
+          },
+          "Promotion": {
+            "$type": "color",
+            "$value": "{Text.Promotion.onSolid.Secondary}"
           }
         },
-        "M": {
-          "$type": "number",
-          "$value": "{Size.24}",
-          "Height": {
-            "$type": "number",
-            "$value": "{Size.20}"
+        "Faded": {
+          "Neutral": {
+            "$type": "color",
+            "$value": "{Text.Neutral.onSolid.Secondary}"
           },
-          "Padding Horizontal": {
-            "$type": "number",
-            "$value": 0
+          "Success": {
+            "$type": "color",
+            "$value": "{Text.Success.onSolid.Secondary}"
           },
-          "Padding Vertical": {
-            "$type": "number",
-            "$value": 0
+          "Danger": {
+            "$type": "color",
+            "$value": "{Text.Danger.onSolid.Secondary}"
+          },
+          "Warning": {
+            "$type": "color",
+            "$value": "{Text.Warning.onSolid.Secondary}"
+          },
+          "Information": {
+            "$type": "color",
+            "$value": "{Text.Info.onSolid.Secondary}"
+          },
+          "Promotion": {
+            "$type": "color",
+            "$value": "{Text.Promotion.onSolid.Secondary}"
           }
         },
-        "L": {
-          "$type": "number",
-          "$value": "{Size.32}",
-          "Height": {
-            "$type": "number",
-            "$value": "{Size.32}"
+        "Selected": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Text.Neutral.Base}"
           },
-          "Padding Horizontal": {
-            "$type": "number",
-            "$value": 0
-          },
-          "Padding Vertical": {
-            "$type": "number",
-            "$value": "{Padding.XS.3}"
+          "Secondary": {
+            "$type": "color",
+            "$value": "{Text.Neutral.Secondary}"
           }
         },
-        "Gutter": {
+        "Passed": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Text.Success.Strong}"
+          },
+          "Secondary": {
+            "$type": "color",
+            "$value": "{Text.Success.Secondary}"
+          }
+        },
+        "False": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Text.Danger.Strong}"
+          },
+          "Secondary": {
+            "$type": "color",
+            "$value": "{Text.Danger.Secondary}"
+          }
+        },
+        "Promotion": {
+          "Default": {
+            "$type": "color",
+            "$value": "{Text.Promotion.Strong}"
+          },
+          "Secondary": {
+            "$type": "color",
+            "$value": "{Text.Promotion.Secondary}"
+          }
+        }
+      }
+    },
+    "Size": {
+      "S": {
+        "Height": {
           "$type": "number",
-          "$value": "{Gutter.XS.2}"
+          "$value": "{Size.20}"
+        },
+        "Padding Horizontal": {
+          "$type": "number",
+          "$value": "{Padding.XS.2}"
+        },
+        "Padding Vertical": {
+          "$type": "number",
+          "$value": "{Padding.XS.1}"
+        }
+      },
+      "M": {
+        "$type": "number",
+        "$value": "{Size.24}",
+        "Height": {
+          "$type": "number",
+          "$value": "{Size.20}"
+        },
+        "Padding Horizontal": {
+          "$type": "number",
+          "$value": "{Padding.XS.2}"
+        },
+        "Padding Vertical": {
+          "$type": "number",
+          "$value": "{Padding.XS.1}"
+        }
+      },
+      "L": {
+        "$type": "number",
+        "$value": "{Size.32}",
+        "Height": {
+          "$type": "number",
+          "$value": "{Size.32}"
+        },
+        "Padding Horizontal": {
+          "$type": "number",
+          "$value": "{Padding.XS.2}"
+        },
+        "Padding Vertical": {
+          "$type": "number",
+          "$value": "{Padding.XS.1}"
+        }
+      },
+      "Gutter": {
+        "$type": "number",
+        "$value": "{Gutter.XS.2}"
+      },
+      "MH": {
+        "Height": {
+          "$type": "number",
+          "$value": "{Size.20}"
+        },
+        "Padding Horizontal": {
+          "$type": "number",
+          "$value": "{Padding.XS.2}"
+        },
+        "Padding Vertical": {
+          "$type": "number",
+          "$value": "{Padding.XS.2H}"
         }
       }
     }
+  },
+  "Accordion": {
+    "Padding": {
+      "Horizontal": {
+        "$type": "number",
+        "$value": "{Padding.S.3}"
+      },
+      "Vertical": {
+        "$type": "number",
+        "$value": "{Padding.S.2}"
+      }
+    },
+    "Gutter": {
+      "Horizontal": {
+        "$type": "number",
+        "$value": "{Gutter.S.1}"
+      }
+    }
   }
+}

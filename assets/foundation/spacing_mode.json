@@ -16,6 +16,10 @@
       "1H": {
         "$type": "number",
         "$value": "{Spacing.XS.1H}"
+      },
+      "2H": {
+        "$type": "number",
+        "$value": "{Spacing.XS.2H}"
       }
     },
     "S": {
@@ -112,6 +116,16 @@
         "$value": "{Spacing.XS.2}"
       }
     },
+    "M": {
+      "1": {
+        "$type": "number",
+        "$value": "{Spacing.M.1}"
+      },
+      "2": {
+        "$type": "number",
+        "$value": "{Spacing.M.2}"
+      }
+    },
     "S": {
       "1": {
         "$type": "number",
@@ -132,16 +146,6 @@
       "2H": {
         "$type": "number",
         "$value": "{Spacing.S.2H}"
-      }
-    },
-    "M": {
-      "1": {
-        "$type": "number",
-        "$value": "{Spacing.M.1}"
-      },
-      "2": {
-        "$type": "number",
-        "$value": "{Spacing.M.2}"
       }
     }
   },

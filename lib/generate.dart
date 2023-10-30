@@ -15,9 +15,9 @@ class Generates {
       ///Init index file content
       String indexFileContent = '';
       if (jsonFolderPath.split('/').last != 'foundation') {
-        indexFileContent = indexFileContentExportDartUi; 
+        indexFileContent = indexFileContentExportFoundation; 
       }
-      indexFileContent += indexFileContentExportFoundation;
+      indexFileContent += indexFileContentExportDartUi;
 
       for (final e in fileSysEntities) {
         final rawJson = await readJsonFile(e.path);
